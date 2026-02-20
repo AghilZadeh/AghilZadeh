@@ -1,9 +1,3 @@
-- 👋 Hi, welcome to my github. I’m Aghil Abed Zadeh, a researcher at Duke university department of neurobiology. Here you can find selected codes that I have developed during my research, extracurricular projects, and some for fun.
-- 👀 I have a physics BSc and PhD. Currently, I conduct theoretical and computational research on biological neural networks, where we strive to understand habit learning in brain's striatal circuit. During my PhD, I studied complexity in natural phenomena by using experimental and computational study of granular media.
-- 🌱 I’m interested in studying neural dynamics and learning both in biological and artificial settings.  
-- 📫 You can learn more about me and my projects on my webpage at www.AghilZadeh.com
-
-<!---
-AghilZadeh/AghilZadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, welcome to my GitHub. I'm Aghil Abed Zadeh, a physicist-turned-quantitative researcher working at the intersection of stochastic modeling, machine learning, and large-scale data systems. Here you'll find code from my research, personal projects, and the occasional thing built just for fun.
+👀 I have a Physics BSc and PhD from Duke, where I studied complexity and rare-event statistics in granular media. I then moved into computational neuroscience, building dynamical systems models of habit learning in the brain's striatal circuit. These days I work on macroeconomic and credit models in quantitative finance — but the thread connecting all of it is the same: extracting meaningful signals from noisy, complex systems.
+🌱 I'm broadly interested in scientific machine learning, stochastic modeling, and the overlap between physical intuition and modern ML — whether applied to financial systems, biological neural networks, or physics simulation.
